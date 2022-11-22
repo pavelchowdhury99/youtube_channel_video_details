@@ -1,1 +1,37 @@
-
+2022-11-22 10:58:10 - utils_and_configs.utils - INFO - Fetching videos for  channel https://www.youtube.com/@justinbieber
+2022-11-22 10:58:11 - utils_and_configs.utils - INFO - Fetched 10 for channel https://www.youtube.com/@justinbieber
+2022-11-22 10:58:11 - __main__ - INFO - Fetched overall 10 videos from 1 channels in 0.7436162499998318
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - z5AIMF1BjOE ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - _lpSCOZ1PCo ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - ZMH9AMwAk34 ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - jur26nGiqOY ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - n1khwOk5dN8 ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - 5MQzBE-KJVY ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - kF4QRGQM2ig ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - QrV1I0L5rqQ ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - qy-1tyX9_QU ...
+2022-11-22 10:58:11 - __main__ - INFO - Fetching content of video - f5wl2uo8dGU ...
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - jur26nGiqOY
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - ZMH9AMwAk34
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - 5MQzBE-KJVY
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - z5AIMF1BjOE
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - qy-1tyX9_QU
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - f5wl2uo8dGU
+2022-11-22 10:58:12 - __main__ - INFO - Done fetching content of video - QrV1I0L5rqQ
+2022-11-22 10:58:13 - __main__ - INFO - Done fetching content of video - kF4QRGQM2ig
+2022-11-22 10:58:13 - __main__ - INFO - Done fetching content of video - _lpSCOZ1PCo
+2022-11-22 10:58:13 - __main__ - INFO - Done fetching content of video - n1khwOk5dN8
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - z5AIMF1BjOE
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - _lpSCOZ1PCo
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - ZMH9AMwAk34
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - jur26nGiqOY
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - n1khwOk5dN8
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - 5MQzBE-KJVY
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - kF4QRGQM2ig
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - QrV1I0L5rqQ
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - qy-1tyX9_QU
+2022-11-22 10:58:13 - __main__ - ERROR - Primary Details exception for qy-1tyX9_QU
+2022-11-22 10:58:13 - __main__ - INFO - Extracting details for video - f5wl2uo8dGU
+2022-11-22 10:58:13 - __main__ - INFO - Fetched details of 10 videos in 3.032657542000379
+2022-11-22 10:58:13 - __main__ - INFO - Writing to csv at path - out.csv.
+2022-11-22 10:58:13 - __main__ - INFO - Wrote to csv at out.csv with shape - (10, 19)
