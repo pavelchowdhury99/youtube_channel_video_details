@@ -7,5 +7,8 @@
 4. To change logging levels use [log_config](https://github.com/pavelchowdhury99/youtube_channel_video_details/blob/main/utils_and_configs/log_congfig.py).
 5. Subset of output is at [output.csv](https://github.com/pavelchowdhury99/youtube_channel_video_details/blob/main/out.csv), we can alter the video_limit [here](https://github.com/pavelchowdhury99/youtube_channel_video_details/blob/4d2a1ed89b7dee158ef5b4021e6be798b83421ec/utils_and_configs/config.py#L7) to scale up.
 
+## 2 ERD for Movie Booking App
+1. The [Spreadsheet](https://github.com/pavelchowdhury99/youtube_channel_video_details/blob/main/movie_booking.xlsx) contains the ERD for booking.
+
 ## 3. Machine's State Identification
 This repo has a [process_log.sql](https://github.com/pavelchowdhury99/youtube_channel_video_details/blob/main/process_log.sql) which uses MsSql to solve for this, it can be tested in MsQSQL online IDEs like [sqliteoneline.com](https://sqliteonline.com/).
